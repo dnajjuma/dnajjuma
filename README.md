@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dnajjuma/dnajjuma/main/banner.png" alt="Diana Najjuma Banner" style="width:100%;" />
-</p>
+
 
 <h1 align="center">Hi there 👋, I'm Diana Najjuma</h1>
 <h3 align="center">Software Engineer | Hardware Innovator | Community Builder</h3>
