@@ -5,7 +5,6 @@
 <h3 align="center">Software Engineer | Hardware Innovator | Community Builder</h3>
 
 <p align="center">
-  <a href="mailto:youremail@example.com">Email</a> •
   <a href="https://twitter.com/diana_najjuma">Twitter</a> •
   <a href="https://linkedin.com/in/diana-najjuma-183435189">LinkedIn</a> •
   <a href="https://diananajjumadev.netlify.app">Portfolio</a>
@@ -15,7 +14,7 @@
 
 ### About Me
 
-I'm a passionate **software engineer** who loves building solutions that create impact and empower communities. I thrive on collaboration, mentorship, and open-source contribution. I believe technology can be a bridge and I'm always excited to build it.
+I'm a passionate **software engineer** who loves building solutions that create impact and empower communities. I thrive on collaboration, mentorship, and open-source contribution. I believe that technology can be a bridge and I'm always excited to build it.
 
 
 
