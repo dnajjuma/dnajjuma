@@ -11,7 +11,7 @@
   <a href="https://diananajjumadev.netlify.app">Portfolio</a>
 </p>
 
----
+
 
 ### 🚀 About Me
 
@@ -43,7 +43,7 @@ I'm a passionate **software engineer** who loves building solutions that create 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnajjuma&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
----
+
 
 ### 🏆 GitHub Achievements
 
