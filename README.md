@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm a passionate **software engineer** who loves building solutions that create impact and empower communities. I thrive on collaboration, mentorship, and open-source contribution. I believe technology can be a bridge — and I'm always excited to build it.
+I'm a passionate **software engineer** who loves building solutions that create impact and empower communities. I thrive on collaboration, mentorship, and open-source contribution. I believe technology can be a bridge and I'm always excited to build it.
 
 
 
