@@ -67,13 +67,4 @@ I'm a passionate **software engineer** who loves building solutions that create 
 
 I’m open to collaborations, mentorship, and building communities. Feel free to reach out!
 
-<p align="center">
-  <a href="https://twitter.com/diana_najjuma">
-    <img src="https://img.shields.io/twitter/follow/diana_najjuma?style=social" />
-  </a>
-</p>
-
-
-
-_Thanks for visiting! ⭐ If you like what I do, let's build something awesome together._
 
