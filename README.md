@@ -13,13 +13,13 @@
 
 
 
-### 🚀 About Me
+### About Me
 
 I'm a passionate **software engineer** who loves building solutions that create impact and empower communities. I thrive on collaboration, mentorship, and open-source contribution. I believe technology can be a bridge — and I'm always excited to build it.
 
----
 
-### 🧰 Languages & Tools
+
+### Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -31,9 +31,9 @@ I'm a passionate **software engineer** who loves building solutions that create 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
----
 
-### 🔥 GitHub Stats
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dnajjuma&show_icons=true&theme=tokyonight" alt="Diana's GitHub stats"/>
@@ -51,7 +51,7 @@ I'm a passionate **software engineer** who loves building solutions that create 
   <img src="https://github-profile-trophy.vercel.app/?username=dnajjuma&theme=tokyonight&row=1" />
 </p>
 
----
+
 
 ### 📣 Let's Connect!
 
@@ -63,7 +63,7 @@ I’m open to collaborations, mentorship, and building communities. Feel free to
   </a>
 </p>
 
----
+
 
 _Thanks for visiting! ⭐ If you like what I do, let's build something awesome together._
 
