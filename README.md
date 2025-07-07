@@ -53,7 +53,7 @@ I'm a passionate **software engineer** who loves building solutions that create 
 
 
 
-### 📣 Let's Connect!
+### Let's Connect! ❤️
 
 I’m open to collaborations, mentorship, and building communities. Feel free to reach out!
 
