@@ -28,6 +28,7 @@ I'm a passionate **software engineer** who loves building solutions that create 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/SolidWorks-E2211C?logo=solidworks&logoColor=white&style=for-the-badge" alt="SolidWorks"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" alt="Canva"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge" alt="Adobe Illustrator"/>
